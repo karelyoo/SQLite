@@ -88,6 +88,4 @@
         android:onClick="modificacion"
         />
 
-
-
 </LinearLayout>
